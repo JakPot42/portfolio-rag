@@ -35,6 +35,10 @@ DIR_TO_PROJECT: dict[str, str] = {
     "scrna_explorer": "scRNA Explorer",
     "sentinel": "SENTINEL",
     "z3_contract": "z3-contract",
+    "contextslim": "ContextSlim",
+    "fault_injector": "Fault Injector",
+    "osint_triage": "OSINT Triage",
+    "portfolio_rag": "Portfolio RAG",
 }
 
 # Directories to skip when scanning project folders
